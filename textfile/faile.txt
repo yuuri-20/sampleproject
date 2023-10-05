@@ -2,3 +2,4 @@ abc
 defg
 hijklmn
 あいうえお
+かきくけこ
